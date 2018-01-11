@@ -5,9 +5,7 @@ def initialize()
   @title = title
 end
 
-def self.author(obj)
 
-end
 
 
 end
